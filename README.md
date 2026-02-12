@@ -28,7 +28,6 @@ Domains        Enterprise SaaS · DSP · Developer Tooling
 |---|---|
 | [cqt-rs](https://github.com/F0rty-Tw0/cqt-rs) | High-performance Constant-Q Transform for audio signal processing (Rust) |
 | [hann-rs](https://github.com/F0rty-Tw0/hann-rs) | Optimized Hann Window implementation (Rust) |
-| [AskWeave](https://github.com/F0rty-Tw0) | Browser extension for AI prompt optimization |
 
 ### Links
 
