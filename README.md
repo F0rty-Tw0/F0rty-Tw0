@@ -28,6 +28,7 @@ Domains        Enterprise SaaS · DSP · Developer Tooling
 |---|---|
 | [cqt-rs](https://github.com/F0rty-Tw0/cqt-rs) | High-performance Constant-Q Transform for audio signal processing (Rust) |
 | [hann-rs](https://github.com/F0rty-Tw0/hann-rs) | Optimized Hann Window implementation (Rust) |
+| [lint-suite](https://github.com/F0rty-Tw0/lint-suite) | A comprehensive collection of ESLint Flat configurations for modern web applications. (Eslint) |
 
 ### Links
 
