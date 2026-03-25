@@ -29,7 +29,12 @@ Domains        Enterprise SaaS · DSP · Developer Tooling
 | [cqt-rs](https://github.com/F0rty-Tw0/cqt-rs) | High-performance Constant-Q Transform for audio signal processing (Rust) |
 | [hann-rs](https://github.com/F0rty-Tw0/hann-rs) | Optimized Hann Window implementation (Rust) |
 | [lint-suite](https://github.com/F0rty-Tw0/lint-suite) | A comprehensive collection of ESLint Flat configurations for modern web applications. (Eslint) |
+| [agentic-mcp](https://github.com/F0rty-Tw0/agentic-mcp) | Multi-provider AI CLI & MCP server — validate installed providers, compare responses side-by-side (Node.js) |                          
+| [WhisperMessenger](https://github.com/F0rty-Tw0/WhisperMessenger) | Messenger-style whisper UI addon for World of Warcraft Retail (Lua) |
 
+### Contributions                                                                                                                                                                                
+- [rtk](https://github.com/rtk-ai/rtk) — Contributing to token-optimized CLI tooling for AI development workflows
+                                                                                                                                                                                                     
 ### Links
 
 [![Portfolio](https://img.shields.io/badge/artiomtofan.com-111?style=flat-square&logo=google-chrome&logoColor=white)](https://artiomtofan.com)
