@@ -17,7 +17,7 @@ I build high-performance web platforms, developer tooling, and the occasional Ru
 ```
 Languages      TypeScript · Rust · C#
 Frontend       Angular · React · Next.js
-Backend        NestJS · .NET Core
+Backend        NestJS · .NET Core · Nodejs
 Tooling        NX · RxJS · ESLint · Azure DevOps
 Domains        Enterprise SaaS · DSP · Developer Tooling
 ```
