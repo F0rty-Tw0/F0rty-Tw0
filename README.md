@@ -8,8 +8,8 @@ I build high-performance web platforms, developer tooling, and the occasional Ru
 ### About
 
 - 7+ years shipping production software across enterprise SaaS, e-commerce, and healthcare
-- Currently at **[Queue-it](https://queue-it.com)** — architecting micro-frontends, optimizing CI/CD pipelines, and integrating AI features into traffic management systems
-- Previously at **WARM** — cut UI rendering from 25s to 2s, led dashboard & backend redesigns, mentored dev teams
+- Architecting micro-frontends, optimizing CI/CD pipelines, and integrating AI features into traffic management systems
+- Led dashboard & backend redesigns, mentored dev teams
 - Polyglot: English, Romanian, Russian, Greek
 
 ### Tech
