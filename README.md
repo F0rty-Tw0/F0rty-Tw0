@@ -1,7 +1,7 @@
 # Hey, I'm Artiom 👋
 
 **Senior Software Engineer** based in Copenhagen, Denmark.  
-I build high-performance web platforms, developer tooling, and the occasional Rust crate.
+I build high-performance web platforms, developer tooling, and the occasional Rust projects.
 
 ---
 
